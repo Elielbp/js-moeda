@@ -1,3 +1,4 @@
 export default {
-    moeada: "BRL"   
+    moeada: "BRL", 
+    toby: "USD"
 }
